@@ -1,7 +1,7 @@
 {
   "name": "deque-js",
   "description": "Deque implementation in JavaScript",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "dependencies": {},
   "author": "Ian Macalinao <me@ian.pw>",
   "repository": "simplyianm/deque-js",
