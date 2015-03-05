@@ -1,0 +1,20 @@
+{
+  "name": "deque-js",
+  "description": "Deque implementation in JavaScript",
+  "version": "0.0.0",
+  "dependencies": {},
+  "author": "Ian Macalinao <me@ian.pw>",
+  "repository": "simplyianm/deque-js",
+  "license": "MIT",
+  "keywords": [
+    "deque-js",
+    "deque"
+  ],
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -R spec"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}
